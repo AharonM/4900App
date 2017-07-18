@@ -8,7 +8,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginRight="5dp"
-        android:src="@drawable/redlight"
+        android:src="@drawable/greenlight"
         android:layout_alignParentTop="true"
         android:layout_centerHorizontal="true" />
 
@@ -19,7 +19,7 @@
         android:textColor="#020000"
         android:textSize="20sp"
         android:textAlignment="center"
-        android:text="Sorry but your answer is incorrect! Please try again."
+        android:text="Good Job! Your answer is correct."
         android:layout_below="@+id/image"
         android:layout_centerVertical="true"
         android:layout_centerHorizontal="true" />/>
